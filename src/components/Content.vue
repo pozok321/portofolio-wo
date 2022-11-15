@@ -106,17 +106,16 @@
 
       <!-- /END THE FEATURETTES -->
   <div class="container px-4 py-5" id="custom-cards">
-    <h2 class="pb-2 border-bottom">Custom cards</h2>
+    <h2 class="pb-2 border-bottom">What We Provide</h2>
 
     <div class="row row-cols-1 row-cols-lg-3 align-items-stretch g-4 py-5">
-      <div class="col">
+      <div class="col" >
         <div class="card card-cover h-100 overflow-hidden text-white bg-dark rounded-5 shadow-lg" style="background-image: url('unsplash-photo-1.jpg');">
           <div class="d-flex flex-column h-100 p-5 pb-3 text-white text-shadow-1">
-            <h2 class="pt-4 mt-4 mb-4 display-6 lh-1 fw-bold">Decoration</h2>
+            <h2 class="pt-3 mt-3 mb-4 display-7 lh-1 fw-bold">Decoration</h2>
             <ul class="d-flex list-unstyled mt-auto">
               <li class="me-auto">
-                <img src="https://github.com/twbs.png" alt="Bootstrap" width="32" height="32" class="rounded-circle border border-white">
-              </li>
+                <img src="../assets/image/pakaikami.jpeg" alt="pakaikami" width="32" height="32" class="rounded-circle border border-white"></li>
               <li class="d-flex align-items-center me-3">
                 <svg class="bi me-2" width="1em" height="1em"><use xlink:href="#geo-fill"/></svg>
                 <small>Earth</small>
@@ -133,11 +132,10 @@
       <div class="col">
         <div class="card card-cover h-100 overflow-hidden text-white bg-dark rounded-5 shadow-lg" style="background-image: url('unsplash-photo-2.jpg');">
           <div class="d-flex flex-column h-100 p-5 pb-3 text-white text-shadow-1">
-            <h2 class="pt-4 mt-4 mb-4 display-6 lh-1 fw-bold">Cathering</h2>
+            <h2 class="pt-3 mt-3 mb-4 display-7 lh-1 fw-bold">Cathering</h2>
             <ul class="d-flex list-unstyled mt-auto">
               <li class="me-auto">
-                <img src="https://github.com/twbs.png" alt="Bootstrap" width="32" height="32" class="rounded-circle border border-white">
-              </li>
+                <img src="../assets/image/pakaikami.jpeg" alt="pakaikami" width="32" height="32" class="rounded-circle border border-white"></li>
               <li class="d-flex align-items-center me-3">
                 <svg class="bi me-2" width="1em" height="1em"><use xlink:href="#geo-fill"/></svg>
                 <small>Pakistan</small>
@@ -154,11 +152,10 @@
       <div class="col">
         <div class="card card-cover h-100 overflow-hidden text-white bg-dark rounded-5 shadow-lg" style="background-image: url('unsplash-photo-3.jpg');">
           <div class="d-flex flex-column h-100 p-5 pb-3 text-shadow-1">
-            <h2 class="pt-4 mt-4 mb-4 display-6 lh-1 fw-bold">Entertaintment</h2>
+            <h2 class="pt-3 mt-3 mb-4 display-7 lh-1 fw-bold">Entertaintment</h2>
             <ul class="d-flex list-unstyled mt-auto">
               <li class="me-auto">
-                <img src="https://github.com/twbs.png" alt="Bootstrap" width="32" height="32" class="rounded-circle border border-white">
-              </li>
+                <img src="../assets/image/pakaikami.jpeg" alt="pakaikami" width="32" height="32" class="rounded-circle border border-white"></li>
               <li class="d-flex align-items-center me-3">
                 <svg class="bi me-2" width="1em" height="1em"><use xlink:href="#geo-fill"/></svg>
                 <small>California</small>
@@ -177,11 +174,10 @@
       <div class="col">
         <div class="card card-cover h-100 overflow-hidden text-white bg-dark rounded-5 shadow-lg" style="background-image: url('unsplash-photo-1.jpg');">
           <div class="d-flex flex-column h-100 p-5 pb-3 text-white text-shadow-1">
-            <h2 class="pt-4 mt-4 mb-4 display-6 lh-1 fw-bold">Decoration</h2>
+            <h2 class="pt-3 mt-3 mb-4 display-7 lh-1 fw-bold">Photographer</h2>
             <ul class="d-flex list-unstyled mt-auto">
               <li class="me-auto">
-                <img src="https://github.com/twbs.png" alt="Bootstrap" width="32" height="32" class="rounded-circle border border-white">
-              </li>
+                <img src="../assets/image/pakaikami.jpeg" alt="pakaikami" width="32" height="32" class="rounded-circle border border-white"></li>
               <li class="d-flex align-items-center me-3">
                 <svg class="bi me-2" width="1em" height="1em"><use xlink:href="#geo-fill"/></svg>
                 <small>Earth</small>
@@ -198,11 +194,10 @@
       <div class="col">
         <div class="card card-cover h-100 overflow-hidden text-white bg-dark rounded-5 shadow-lg" style="background-image: url('unsplash-photo-2.jpg');">
           <div class="d-flex flex-column h-100 p-5 pb-3 text-white text-shadow-1">
-            <h2 class="pt-4 mt-4 mb-4 display-6 lh-1 fw-bold">Cathering</h2>
+            <h2 class="pt-3 mt-3 mb-4 display-7 lh-1 fw-bold">Event Services</h2>
             <ul class="d-flex list-unstyled mt-auto">
               <li class="me-auto">
-                <img src="https://github.com/twbs.png" alt="Bootstrap" width="32" height="32" class="rounded-circle border border-white">
-              </li>
+                <img src="../assets/image/pakaikami.jpeg" alt="pakaikami" width="32" height="32" class="rounded-circle border border-white"></li>
               <li class="d-flex align-items-center me-3">
                 <svg class="bi me-2" width="1em" height="1em"><use xlink:href="#geo-fill"/></svg>
                 <small>Pakistan</small>
@@ -219,10 +214,10 @@
       <div class="col">
         <div class="card card-cover h-100 overflow-hidden text-white bg-dark rounded-5 shadow-lg" style="background-image: url('unsplash-photo-3.jpg');">
           <div class="d-flex flex-column h-100 p-5 pb-3 text-shadow-1">
-            <h2 class="pt-4 mt-4 mb-4 display-6 lh-1 fw-bold">Entertaintment</h2>
+            <h2 class="pt-3 mt-3 mb-4 display-7 lh-1 fw-bold">MC</h2>
             <ul class="d-flex list-unstyled mt-auto">
               <li class="me-auto">
-                <img src="https://github.com/twbs.png" alt="Bootstrap" width="32" height="32" class="rounded-circle border border-white">
+                <img src="../assets/image/pakaikami.jpeg" alt="pakaikami" width="32" height="32" class="rounded-circle border border-white">
               </li>
               <li class="d-flex align-items-center me-3">
                 <svg class="bi me-2" width="1em" height="1em"><use xlink:href="#geo-fill"/></svg>
@@ -243,19 +238,19 @@
 
       <div class="row">
         <div class="col-lg-4">
-          <img src="../assets/image/pale.jpg" alt="pelaminan" height="200" class="dblock w-50">
+          <img src="../assets/image/pale.jpg" alt="pelaminan" class="dblock w-100">
           <h2>Valeryan Ramadhan</h2>
           <p>Wedding Organizer</p>
           <p><a class="btn btn-secondary" href="#">View details &raquo;</a></p>
         </div><!-- /.col-lg-4 -->
         <div class="col-lg-4">
-          <img src="../assets/image/pale.jpg" alt="pelaminan" height="200" class="dblock w-50">
+          <img src="../assets/image/achmad1.jpg" alt="pelaminan" class="dblock w-100">
           <h2>Achmad Tabrizi</h2>
           <p>Wedding Organizer</p>
           <p><a class="btn btn-secondary" href="#">View details &raquo;</a></p>
         </div><!-- /.col-lg-4 -->
         <div class="col-lg-4">
-          <img src="../assets/image/pale.jpg" alt="pelaminan" height="200" class="dblock w-50">
+          <img src="../assets/image/pale.jpg" alt="pelaminan" class="dblock w-100">
           <h2>Didit Ardiansyah</h2>
           <p>Wedding Organizer</p>
           <p><a class="btn btn-secondary" href="#">View details &raquo;</a></p>
@@ -268,6 +263,10 @@
 <script>
   export default {
     name: "Content-new",
+
+    methods:{
+      
+    }
   }
 </script>
 <style>
